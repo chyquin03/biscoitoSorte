@@ -8,10 +8,6 @@ function App() {
 
   const phrases = [
     'A sorte está ao seu lado!',
-    'Você terá uma surpresa agradável em breve.',
-    'Grandes oportunidades estão a caminho.',
-    'Seu trabalho duro será recompensado.',
-    'Prepare-se para algo incrível em sua vida!',
   ];
 
   const breakCookie = () => {
